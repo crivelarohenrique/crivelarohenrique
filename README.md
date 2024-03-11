@@ -1,4 +1,4 @@
-### Olá!!  Me chamo Henrique Crivelaro, Desenvolvedor Full Stack.
+### Olá!!  Me chamo Henrique Crivelaro, sou Desenvolvedor Full Stack.
 
 
 
@@ -17,6 +17,10 @@
 ##
 
 ### Meus Status: :fire:
+
+[![Crivelaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=crivelarohenrique)](https://github.com/crivelarohenrique/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crivelarohenrique)](https://github.com/crivelarohenrique/github-readme-stats)
+
 
 
 ##

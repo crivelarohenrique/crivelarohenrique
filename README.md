@@ -1,4 +1,7 @@
-### Olá!!  Me chamo Henrique Crivelaro, sou Desenvolver BackEnd.
+### Olá!!  Me chamo Henrique Crivelaro, Desenvolvedor Full Stack.
+
+
+### :hammer_and_wrench: Linguagens e Ferramentas que utilizo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Crivelaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -1,4 +1,4 @@
-### Olá!!  Me chamo Henrique Crivelaro, sou Desenvolvedor Back End.
+### Olá!!  Me chamo Henrique Crivelaro, sou Desenvolvedor Web (React && Node).
 
 
 

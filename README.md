@@ -4,8 +4,7 @@
 
 ###  Sobre mim: ☕
 
-Alura 2023-2024
-https://cursos.alura.com.br/user/henriqueecrivelaro
+Comecei a estudar programação em 2023 com a plataforma Alura e atualmente estou graduando em Analise e Desenvolvimento de Sistemas pela Gran Faculdade.
 
 ⚡: Desenvolvendo projetos no tempo livre.
 

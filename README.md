@@ -2,8 +2,8 @@
 
 ###  Sobre mim: ☕
 
-📖 Graduando Analise e Desenvolvimento de Sistemas.
-📄 Focado em desenvolvimento web. 
+📖 Graduando Analise e Desenvolvimento de Sistemas.<br>
+📄 Focado em desenvolvimento web. <br>
 ⚡: Desenvolvendo projetos no tempo livre.
 
  

@@ -1,11 +1,9 @@
-### Olá!!  Me chamo Henrique Crivelaro, sou Full StackDeveloper.
-
-
+### Olá!  Me chamo Henrique Crivelaro, sou Full StackDeveloper.
 
 ###  Sobre mim: ☕
 
-Comecei a estudar programação em 2023 com a plataforma Alura e atualmente estou graduando em Analise e Desenvolvimento de Sistemas pela Gran Faculdade.
-
+📖 Graduando Analise e Desenvolvimento de Sistemas.
+📄 Focado em desenvolvimento web. 
 ⚡: Desenvolvendo projetos no tempo livre.
 
  

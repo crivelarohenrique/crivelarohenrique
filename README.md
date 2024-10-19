@@ -1,4 +1,4 @@
-### Olá!  Me chamo Henrique Crivelaro, sou Full StackDeveloper.
+### Olá!  Me chamo Henrique Crivelaro, sou FullStack Developer.
 
 ###  Sobre mim: ☕
 

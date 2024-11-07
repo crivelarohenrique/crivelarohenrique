@@ -16,8 +16,8 @@
 
 ### Meus Status: :fire:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crivelarohenrique&size=large&width=700" alt="Top Langs"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=crivelarohenrique&size=large&width=700" alt="Crivelaro's GitHub stats">
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crivelarohenrique" alt="Top Langs"><br>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=crivelarohenrique" alt="Crivelaro's GitHub stats">
 
 ##
 

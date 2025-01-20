@@ -8,12 +8,10 @@
 
 ### :hammer_and_wrench: Linguagens e Ferramentas que utilizo:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; margin-bottom: 5%;"><br>
   <img align="center" alt="Crivelaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Crivelaro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Crivelaro-Ts" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fangular.dev%2Fpress-kit&psig=AOvVaw189nWodNej-      
-   M93b9u7RHEg&ust=1737461566480000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDH7u2ihIsDFQAAAAAdAAAAABAE" />
-          
+  <img align="center" alt="Crivelaro-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />     
 </div>
 
 <div> 

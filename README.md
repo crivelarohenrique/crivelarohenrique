@@ -34,6 +34,6 @@
 ### Meus Status: :fire:
 
 <img align="center" width="100%" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crivelarohenrique" alt="Top Langs">
-<img align="center" width="100%" height="300px" src="https://github-readme-stats.vercel.app/api?username=crivelarohenrique" alt="Crivelaro's GitHub stats">
+<!-- <img align="center" width="100%" height="300px" src="https://github-readme-stats.vercel.app/api?username=crivelarohenrique" alt="Crivelaro's GitHub stats"> -->
 
 ##
